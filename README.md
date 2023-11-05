@@ -15,10 +15,10 @@ stereo matching can also be mitigated without the expensive hardware.
 
 In this work, we propose the idea of disparity discontinuity level (DDL) to predict the disparity error under different intensity quantization. It can be considered as a metric to represent the disparity mismatch due to the difference between left and right images caused by feature disappearance during quantization.
 
-# Methodology Flowchart
+## Methodology Flowchart
 <img width="1037" alt="image" src="https://github.com/qqwweerr987/stereo-quantization-disparity/assets/45920949/b1cf2635-2d53-4756-ad72-20a7931fc6b4">
 
-#Execution
+## Execution
 Run **OnStereoError.py** to get the eight value of predicted error.
 ```
 python OnStereoError.py
