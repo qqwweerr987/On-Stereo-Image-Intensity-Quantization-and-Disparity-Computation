@@ -7,6 +7,8 @@ By exploiting the mathematical model and algorithms related stereo matching and 
 The proposed formulation explores the possibility to simultaneously maintain the stereo matching performance and reduce the data for processing. It can serve as a framework for
 the stereo matching algorithms, including the deep learningbased approaches, to alleviate the computation requirement.
 
+<img width="544" alt="image" src="https://github.com/qqwweerr987/stereo-quantization-disparity/assets/45920949/30c8ae4e-8a4e-4ab5-b9ae-24c0329044d0">
+
 Since the intensity quantization is an intuitive way for data compression, the idea can be implemented with the existing techniques. The enduring problem of memory efficiency on
 stereo matching can also be mitigated without the expensive hardware.
 
