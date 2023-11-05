@@ -7,7 +7,8 @@ By exploiting the mathematical model and algorithms related stereo matching and 
 The proposed formulation explores the possibility to simultaneously maintain the stereo matching performance and reduce the data for processing. It can serve as a framework for
 the stereo matching algorithms, including the deep learningbased approaches, to alleviate the computation requirement.
 
-![1105](https://github.com/qqwweerr987/stereo-quantization-disparity/assets/45920949/86636442-ed39-4d89-bcd3-e3a8a4ae5b7c)
+![1105](https://github.com/qqwweerr987/stereo-quantization-disparity/assets/45920949/37e25658-8253-4edc-8e9d-87441a3c59af)
+
 The disparity maps of ‘Jadeplant’ obtained using RAFTstereo on the image pairs with 2, 4 and 256 intensity quantization levels (from the left to the right).
 
 Since the intensity quantization is an intuitive way for data compression, the idea can be implemented with the existing techniques. The enduring problem of memory efficiency on
